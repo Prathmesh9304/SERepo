@@ -1,1 +1,3 @@
-one large program without any functions
+sendOtp()
+generateOtp()
+ValidateOtp()
